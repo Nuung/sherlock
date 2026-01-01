@@ -1,13 +1,15 @@
 APClips
 Archive.org
+Audiojungle
 Code Snippet Wiki
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -18,6 +20,5 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
