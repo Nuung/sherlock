@@ -7,6 +7,7 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 Minecraft
 PocketStars
@@ -14,6 +15,7 @@ Realmeye
 Reddit
 RocketTube
 Scribd
+Slack
 SlideShare
 Splice
 Spotify
