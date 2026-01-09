@@ -8,12 +8,15 @@ GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
 RocketTube
 Scribd
 SlideShare
+Smule
 Splice
 Spotify
 Trovo
@@ -23,4 +26,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
