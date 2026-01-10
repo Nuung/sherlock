@@ -7,9 +7,9 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 Minecraft
-OurDJTalk
 PocketStars
 Realmeye
 Reddit
