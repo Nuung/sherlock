@@ -1,13 +1,10 @@
 APClips
 Archive.org
-BoardGameGeek
 Code Snippet Wiki
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
 PocketStars
 Realmeye
