@@ -1,13 +1,12 @@
 APClips
 Archive.org
 Code Snippet Wiki
-Eintracht Frankfurt Forum
+DeviantArt
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LiveJournal
 LushStories
 PocketStars
 Realmeye
@@ -21,6 +20,6 @@ Spotify
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-threads
