@@ -5,9 +5,7 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
-Hive Blog
 Hubski
 LessWrong
 LushStories
@@ -17,7 +15,9 @@ PocketStars
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
+Slack
 SlideShare
 Smule
 Splice
@@ -27,8 +27,5 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
-threads
-xHamster
