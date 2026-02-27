@@ -1,10 +1,10 @@
 APClips
 Archive.org
-BoardGameGeek
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
