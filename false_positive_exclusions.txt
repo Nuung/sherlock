@@ -1,15 +1,12 @@
 APClips
 Archive.org
 Codolio
-Cults3D
 DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Minecraft
@@ -22,15 +19,12 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
 phpRU
 svidbook
