@@ -9,15 +9,15 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
 PocketStars
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -30,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
