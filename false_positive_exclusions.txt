@@ -18,11 +18,11 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
