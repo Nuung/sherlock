@@ -4,7 +4,6 @@ Codolio
 DeviantArt
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
@@ -26,6 +25,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
 xHamster
