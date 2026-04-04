@@ -8,8 +8,7 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
-Minecraft
+LessWrong
 Patched
 PocketStars
 Pornhub
@@ -31,3 +30,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
