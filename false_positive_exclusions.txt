@@ -1,10 +1,10 @@
 7Cups
 APClips
 Archive.org
-Carbonmade
+Bandcamp
 Codolio
-DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 GeeksforGeeks
 Giphy
 Hashnode
@@ -15,6 +15,7 @@ Minecraft
 Patched
 PocketStars
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -24,7 +25,6 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
