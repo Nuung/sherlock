@@ -2,9 +2,7 @@
 APClips
 Apple Discussions
 Archive.org
-Audiojungle
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -12,13 +10,13 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -34,3 +32,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
