@@ -1,8 +1,10 @@
 7Cups
 APClips
+Airliners
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Codolio
 DeviantArt
 Discord.bio
@@ -26,6 +28,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -34,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
