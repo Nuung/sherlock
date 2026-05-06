@@ -19,6 +19,7 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
@@ -30,6 +31,7 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
 opennet
