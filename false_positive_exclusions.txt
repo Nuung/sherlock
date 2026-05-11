@@ -13,9 +13,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
-LushStories
-Minecraft
 Motherless
 Patched
 Pornhub
@@ -30,6 +27,7 @@ Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 dailykos
@@ -39,4 +37,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
