@@ -12,11 +12,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
+Odysee
 Patched
 Pornhub
 Rarible
@@ -26,6 +27,7 @@ Replit.com
 RocketTube
 Scribd
 SlideShare
+Snapchat
 Splice
 Spotify
 Trovo
