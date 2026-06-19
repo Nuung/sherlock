@@ -6,15 +6,16 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
+Coders Rank
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Odysee
@@ -24,11 +25,14 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
 Spotify
 Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
