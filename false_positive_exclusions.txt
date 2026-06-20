@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Coders Rank
 Codolio
 DeviantArt
 Discord.bio
@@ -15,12 +13,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -31,7 +28,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -45,4 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
+threads
