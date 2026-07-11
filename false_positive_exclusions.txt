@@ -8,7 +8,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-DeviantArt
+Cracked Forum
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,6 +17,7 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+Linktree
 LushStories
 Odysee
 PCGamer
@@ -31,7 +32,6 @@ SlideShare
 Splice
 Spotify
 Star Citizen
-Trovo
 TryHackMe
 Velomania
 Weblate
