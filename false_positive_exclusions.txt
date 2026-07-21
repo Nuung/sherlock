@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
@@ -15,8 +14,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-LinkedIn
 LushStories
 Odysee
 PCGamer
@@ -31,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -42,7 +40,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
