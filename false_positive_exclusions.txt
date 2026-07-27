@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -16,6 +17,8 @@ Hashnode
 Hubski
 LessWrong
 LinkedIn
+LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -32,7 +35,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
