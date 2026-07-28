@@ -6,20 +6,22 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+Gumroad
 Hashnode
 Hubski
 LessWrong
 LinkedIn
 LushStories
-Minecraft
+NICommunityForum
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -28,11 +30,10 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-Scribd
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
 Weblate
