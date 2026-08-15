@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
 Cults3D
@@ -21,8 +20,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -40,7 +41,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,7 +49,7 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
