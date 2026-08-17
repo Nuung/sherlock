@@ -7,8 +7,6 @@ ArtStation
 Bandcamp
 Chatujme.cz
 Codolio
-Cracked Forum
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -22,7 +20,9 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
+Outgress
 PCGamer
 Patched
 Rarible
@@ -35,9 +35,9 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
