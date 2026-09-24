@@ -6,16 +6,17 @@ Archive.org
 ArtStation
 Bandcamp
 CGTrader
-Carbonmade
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
-Forum Ophilia
 GeeksforGeeks
 Giphy
+Gravatar
 Hashnode
 Houzz
 Hubski
@@ -27,6 +28,7 @@ Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,7 +38,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
