@@ -24,6 +24,7 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,6 +34,7 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -40,7 +42,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Valorant Forums
 Velomania
 Weblate
 YandexMusic
