@@ -5,6 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+BoardGameGeek
 CGTrader
 Championat
 Chatujme.cz
@@ -46,6 +48,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+fl
 hunting
 interpals
 mercadolivre
