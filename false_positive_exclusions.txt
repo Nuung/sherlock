@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,7 +9,6 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -18,7 +16,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -30,7 +27,6 @@ LushStories
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -56,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
