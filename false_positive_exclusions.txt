@@ -22,10 +22,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 Linktree
-Lobsters
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -53,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
