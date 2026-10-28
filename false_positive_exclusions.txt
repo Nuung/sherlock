@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -14,6 +15,7 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
@@ -21,6 +23,8 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
+LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -36,6 +40,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -48,3 +53,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
