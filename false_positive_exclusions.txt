@@ -3,10 +3,9 @@ Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
+BabyRu
 Bandcamp
-Blogger
 Championat
-Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
@@ -22,10 +21,8 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
-Outgress
 PCGamer
 Rarible
 Realmeye
@@ -37,6 +34,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+TikTok
 Trakt
 TryHackMe
 Velomania
