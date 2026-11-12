@@ -4,7 +4,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -22,6 +21,7 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
