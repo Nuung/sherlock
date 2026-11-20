@@ -2,11 +2,9 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
 Chatujme.cz
 Codolio
 Cracked Forum
-DEV Community
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -15,7 +13,7 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
+Itch.io
 LinkedIn
 Linktree
 LushStories
@@ -29,11 +27,9 @@ Reddit
 ReverbNation
 RocketTube
 Scribd
-Signal
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
